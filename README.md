@@ -72,7 +72,7 @@ This project is that bridge.
 
 If you are a native Sourashtra speaker:
 1.  **Star** this repo to show your support.
-2.  **Review** the `golden_phrases.csv` for accuracy.
+2.  **Review** the `sourashtra_phrasebook.csv` for accuracy.
 3.  **Reach out** via the Issues tab if you want to volunteer your voice for recording or help with grammar validation.
 
 ---
