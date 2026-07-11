@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data (Prevent accidental upload of large audio files)
+*.wav
+*.mp3
+*.pth
+*.h5
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+
+# Environment Variables
+.env
+config.yaml
